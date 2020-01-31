@@ -1,4 +1,4 @@
 def reverse_each_word(string)
   new = string.split(/ /)
-  new
+  return new.collect{|word|word.revese}
 end
