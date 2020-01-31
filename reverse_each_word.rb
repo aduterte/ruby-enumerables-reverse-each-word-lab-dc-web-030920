@@ -1,4 +1,4 @@
-def reverse_each_word(string)
-  new =%w(string)
+def reverse_each_word(sentence1)
+  new =%w[sentence1]
 
 end
